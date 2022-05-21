@@ -1,0 +1,10 @@
+.bg-img {
+  background-image: url("../img/bg_pres.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 750px;
+  width: 100%;
+}
+.mt-17{
+	margin-top: 17rem;
+}
